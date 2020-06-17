@@ -7,10 +7,6 @@ end
 
 greeting Welcome Message
 
-greeting = Welcome Message
-
-puts "What is your input?"
-
-
+input_user = gets.strip
 
 end
