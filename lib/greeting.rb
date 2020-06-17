@@ -5,7 +5,7 @@ puts "Hello #{name}." + " It's nice to meet you."
 
 end
 
-def greeting (Welcome Message)
+greeting Welcome Message
 
 greeting = Welcome Message
 
