@@ -4,6 +4,8 @@ require_relative "../lib/greeting.rb"
 # code your CLI here!
 
 def greeting(name)
+puts "Welcome message"
+
 
 
 
