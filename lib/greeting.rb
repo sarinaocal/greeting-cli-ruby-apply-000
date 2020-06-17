@@ -5,4 +5,10 @@ puts "Hello #{name}." + " It's nice to meet you."
 
 end
 
-greeting Welcome Message
+def greeting (Welcome Message)
+
+puts "What is your input?"
+
+
+
+end
