@@ -8,5 +8,9 @@ end
 greeting Welcome Message
 
 input_user = gets.strip
-
+if(input_user == 'something')
+    puts 'You are smart'
+else
+    puts 'You are not'
+end
 end
