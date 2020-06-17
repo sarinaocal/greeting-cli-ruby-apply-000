@@ -6,14 +6,4 @@ puts "Hello #{name}." + " It's nice to meet you."
 end
 
 
-#def greeting
-
-#print "Enter your name: "
-#name = gets
-#puts "Hello #{name}"
- 
-#$stdout.print 
-#$stdout.puts 
-
- # end
-#end
+puts "Welcome Message"
