@@ -13,8 +13,7 @@ end
 
 def greeting
 
-    old_stdout = $stdout
-    $stdout = StringIO.new('','w')
+ 
 
     $stdout.string
   ensure
