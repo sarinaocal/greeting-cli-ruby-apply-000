@@ -5,7 +5,7 @@ puts "Hello #{name}." + " It's nice to meet you."
 
 end
 
-def print Welcome Message
+print Welcome Message
 
 input_user = gets.strip
 
