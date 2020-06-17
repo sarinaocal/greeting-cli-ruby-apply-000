@@ -18,5 +18,6 @@ if(input_user == 'name')
     puts 'users name'
 else
     puts 'not users name'
-    
+
+end
 
