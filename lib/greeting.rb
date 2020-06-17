@@ -7,6 +7,7 @@ end
 
 greeting = Welcome Message.new
 
+puts greeting.message_
 input_user = gets.strip
 
 if(input_user == 'name')
