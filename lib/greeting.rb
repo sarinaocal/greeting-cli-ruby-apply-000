@@ -15,4 +15,4 @@ if(input_user == 'name')
 else
     puts 'not users name'
     
-end
+
