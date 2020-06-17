@@ -8,8 +8,11 @@ end
 greeting Welcome Message
 
 input_user = gets.strip
+
 if(input_user == 'name')
+  
     puts 'users name'
 else
     puts 'not users name'
+    
 end
