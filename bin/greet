@@ -8,6 +8,7 @@ puts "Hi! Welcome to the wonderful world of Ruby programming."
 
 puts "Hello Don. It's nice to meet you."
 
-
+name = gets.strip
+greeting(name)
 
 
