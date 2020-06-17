@@ -5,16 +5,14 @@
 
 #end
 
-def
- 
 def greeting
 
-print "Enter your name: "
-name = gets
-puts "Hello #{name}"
+#print "Enter your name: "
+#name = gets
+#puts "Hello #{name}"
  
-$stdout.print 
-$stdout.puts 
+#$stdout.print 
+#$stdout.puts 
 
-  end
-end
+ # end
+#end
