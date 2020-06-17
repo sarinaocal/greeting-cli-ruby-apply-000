@@ -10,6 +10,7 @@ greeting = Welcome Message.new
 name = name.chomp
 
 puts greeting.message_for_
+
 input_user = gets.strip
 
 if(input_user == 'name')
