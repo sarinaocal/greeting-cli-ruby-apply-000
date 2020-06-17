@@ -8,9 +8,8 @@ end
 greeting Welcome Message
 
 input_user = gets.strip
-if(input_user == 'something')
-    puts 'You are smart'
+if(input_user == 'name')
+    puts 'users name'
 else
-    puts 'You are not'
-end
+    puts 'not users name'
 end
