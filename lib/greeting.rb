@@ -7,6 +7,8 @@ end
 
 def greeting (Welcome Message)
 
+greeting = Welcome Message
+
 puts "What is your input?"
 
 
