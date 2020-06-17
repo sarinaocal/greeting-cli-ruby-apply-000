@@ -7,10 +7,6 @@ end
 
 def
  
- puts 
-  end    
-end
-
 def greeting
 
 print "Enter your name: "
