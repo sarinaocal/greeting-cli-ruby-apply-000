@@ -14,8 +14,8 @@ end
 def greeting
 
  
-$stdout.print "Ruby language\n"
-$stdout.puts "Python language"
+$stdout.print 
+$stdout.puts 
 
     $stdout.string
   ensure
