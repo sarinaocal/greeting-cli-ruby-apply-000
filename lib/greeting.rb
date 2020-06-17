@@ -5,4 +5,4 @@ puts "Hello #{name}." + " It's nice to meet you."
 
 end
 
-greeting = Welcome Message.new
+greeting Welcome Message
